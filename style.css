@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arizonia&family=Bangers&family=Berkshire+Swash&family=Concert+One&family=Dancing+Script:wght@700&family=Fleur+De+Leah&family=Fredericka+the+Great&family=Great+Vibes&family=Henny+Penny&family=Imperial+Script&family=Mea+Culpa&family=Oleo+Script+Swash+Caps:wght@400;700&family=Orelega+One&family=Oswald:wght@500;700&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,800;0,900;1,400;1,600;1,700;1,800;1,900&family=Raleway+Dots&family=Roboto:ital,wght@0,400;0,700;0,900;1,100;1,300&family=Smokum&family=Special+Elite&family=Stint+Ultra+Condensed&family=Water+Brush&family=Yeseva+One&family=Zen+Loop:ital@0;1&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 5rem;
+  border: 2rem solid darkblue;
+}
+
+h1 {
+  font-family: "Mea Culpa", cursive;
+  text-align: center;
+  font-size: 10rem;
+  color: grey;
+  text-shadow: 0.3rem 0.3rem black;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+  font-size: 2.5rem;
+  color: darkblue;
+}
+.fontsStyles :first-child {
+  font-family: "Arizonia", cursive;
+}
+.fontsStyles :nth-child(2) {
+  font-family: "Bangers", cursive;
+}
+
+.fontsStyles :nth-child(3) {
+  font-family: "Berkshire Swash", cursive;
+}
+
+.fontsStyles :nth-child(4) {
+  font-family: "Dancing Script", cursive;
+}
+
+.fontsStyles :nth-child(5) {
+  font-family: "Fleur De Leah", cursive;
+}
+
+.fontsStyles :nth-child(6) {
+  font-family: "Great Vibes", cursive;
+}
+
+.fontsStyles :nth-child(7) {
+  font-family: "Imperial Script", cursive;
+}
+
+.fontsStyles :nth-child(8) {
+  font-family: "Oleo Script Swash Caps", cursive;
+}
+
+.fontsStyles :nth-child(9) {
+  font-family: "Water Brush", cursive;
+}
+
+.fontsStyles :nth-child(10) {
+  font-family: "Orelega One", cursive;
+}
+
+.fontsStyles :nth-child(11) {
+  font-family: "Permanent Marker", cursive;
+}
+
+.fontsStyles :nth-child(12) {
+  font-family: "Henny Penny", cursive;
+}
+
+.fontsStyles :nth-child(13) {
+  font-family: "Roboto", sans-serif;
+}
+
+.fontsStyles :nth-child(14) {
+  font-family: "Fredericka the Great", cursive;
+}
+
+.fontsStyles :nth-child(15) {
+  font-family: "Zen Loop", cursive;
+}
+
+.fontsStyles :nth-child(16) {
+  font-family: "Smokum", cursive;
+}
+
+.fontsStyles :nth-child(17) {
+  font-family: "Yeseva One", cursive;
+}
+
+.fontsStyles :nth-child(18) {
+  font-family: "Stint Ultra Condensed", cursive;
+}
+
+.fontsStyles :nth-child(19) {
+  font-family: "Special Elite", cursive;
+}
+
+.fontsStyles :nth-child(20) {
+  font-family: "Raleway Dots", cursive;
+}
